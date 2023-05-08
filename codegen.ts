@@ -5,8 +5,14 @@ const config: CodegenConfig = {
   documents: ['src/graphql/**/*.graphql'],
   ignoreNoDocuments: true, // for better experience with the watcher
   generates: {
-    './src/gql/': {
-      preset: 'client'
+    './src/gql/geneted.ts': {
+      plugins: ['typescript', 'typescript-operations','typescript-react-apollo'],
+      config: {
+        reactApolloVersion: 3,
+        withHooks: true,
+        withHOC:true,
+        withComponent: false, 
+      }, 
     }
   }
 }

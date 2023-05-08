@@ -1,7 +1,5 @@
 <h1 align="center"> Plataforma de Evento da RocketSeat </h1>
 
-
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,6 +14,7 @@
 
 <p align="center">
   <img src=".github/preview.jpg" width="100%">
+  <br>
   <img src=".github/preview2.jpg" width="100%">
 </p>
 

@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Back-end = <a href="https://app.hygraph.com/" alt="back-end">Hygraph</a>
 
 
-## Caso desejar fazer uma cópia do projeto:
+## Caso queira clonar o repositório:
 
 - Fazer uma copía do schema do Ignite-lab nesse link :  <a href="https://rseat.in/lab-graphcms">Hygraph</a>
 - Criar váriaveis de ambiente: {
